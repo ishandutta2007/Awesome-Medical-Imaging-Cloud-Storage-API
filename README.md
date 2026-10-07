@@ -59,11 +59,11 @@ Below is a comparative breakdown of leading commercial medical imaging cloud pro
 
 ## 🔓 Open-Source GitHub Projects
 
-Medical imaging benefits from a robust open-source ecosystem. Below are top GitHub repositories sorted by **GitHub Star Count (Descending)** 🌟.
+Medical imaging benefits from a robust open-source ecosystem. Below are top GitHub repositories sorted by **GitHub Stars_Count (Descending)** 🌟.
 
 ### 🌟 Top Open-Source Projects at a Glance
 
-| Repository | Description 📝 | License 📜 | GitHub Stars ⭐ |
+| Repository | Description 📝 | License 📜 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- | :--- |
 | **[MONAI](https://github.com/Project-MONAI/MONAI)** | PyTorch-based AI framework for deep learning in healthcare imaging | Apache-2.0 | [<img src="https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social&color=white" alt="MONAI Stars"/>](https://github.com/Project-MONAI/MONAI/stargazers) |
 | **[OHIF Viewer](https://github.com/OHIF/Viewers)** | De facto standard zero-footprint web DICOM viewer in React | MIT | [<img src="https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white" alt="OHIF Stars"/>](https://github.com/OHIF/Viewers/stargazers) |
