@@ -59,7 +59,7 @@ Below is a comparative breakdown of leading commercial medical imaging cloud pro
 
 ## 🔓 Open-Source GitHub Projects
 
-Medical imaging benefits from a robust open-source ecosystem. Below are top GitHub repositories sorted by **GitHub Stars_Count (Descending)** 🌟.
+Medical imaging benefits from a robust open-source ecosystem. Below are top GitHub repositories sorted by **GitHub_Stars_Count (Descending)** 🌟.
 
 ### 🌟 Top Open-Source Projects at a Glance
 
